@@ -47,11 +47,3 @@ password: Admin@123456
 ```
 
 To login as a user, sign in, confirm the email sent to through mailtrap and use your credentials to log in. 
-     
-     
-## Creators
-
-https://github.com/veltrianthony
-https://github.com/NinjaDolfin
-https://github.com/Thorba01
-https://github.com/IvanovBass
